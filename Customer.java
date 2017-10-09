@@ -410,5 +410,11 @@ public class Customer {
     public void setUsername(String value) {
         this.username = value;
     }
+	
+	
+	/*test 方法*/
+	public void show(){
+		System.out.println("哈哈哈哈");
+	}
 
 }
